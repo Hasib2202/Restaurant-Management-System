@@ -1,0 +1,1 @@
+"Current Balance: "+account.goBalance(login.getId()))
