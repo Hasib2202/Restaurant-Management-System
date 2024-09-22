@@ -1,4 +1,4 @@
-# Restaurant Management System
+# [Restaurant Management System]
 
 This is a Java-based Restaurant Management System that helps manage essential operations of a restaurant, including employee management, food orders, feedback, and stock management.
 
